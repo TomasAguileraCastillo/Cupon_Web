@@ -18,22 +18,18 @@ se realizo ademas un diseño visual Responsive.
 
 Si gustas, aqui te dejo algunas imagenes del proyecto realizado en bootstrap, te las recomiendo:
 
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura1.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
-![Captura del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura2.JPG?raw=true)
+![Captura del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Cupon_Web/cbbff300422a30de8a57932a2c43cb19050b1cc7/imagenes%20del%20proyecto/Captura.JPG)
+![Captura del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Cupon_Web/cbbff300422a30de8a57932a2c43cb19050b1cc7/imagenes%20del%20proyecto/Captura2.JPG)
+![Captura del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Cupon_Web/cbbff300422a30de8a57932a2c43cb19050b1cc7/imagenes%20del%20proyecto/Captura3.JPG)
+![Captura del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Cupon_Web/cbbff300422a30de8a57932a2c43cb19050b1cc7/imagenes%20del%20proyecto/Captura4.JPG)
 
 ## Autor ✒️
 
 ** Tomás Aguilera**
 
-- [micorreo](tomasaguilerac@live.cl)
+- [Mi Correo](tomasaguilerac@live.cl)
 - [LinkedIn](https://www.linkedin.com/in/tomásaguilera)
-- [Porfolio web(aun en Construcción)](https://tu-dominio.com/)
+- [Porfolio Web (aun en Construcción)](https://tu-dominio.com/)
 
 ## Contratación, Colaboracones y Asesorias.
 
