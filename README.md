@@ -1,6 +1,6 @@
 # Cupón Web
 
-![Imagen del proyecto](https://github.com/TomasAguileraCastillo/Mantenedor-Sencillo/blob/main/mantenedor/imagenes%20del%20proyecto/Captura1.JPG?raw=true)
+![Imagen del proyecto](https://github.com/TomasAguileraCastillo/Cupon_Web/blob/main/imagenes%20del%20proyecto/Captura5.JPG?raw=true)
 
 ## Descripción 📑
 
